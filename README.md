@@ -25,7 +25,16 @@ This is my personal portfolio website created as part of my Git and GitHub assig
 
 ## Screenshot
 
-(Add your webpage screenshot here)
+## Website Preview
+
+### Header Section
+![Portfolio Header](images/header.png)
+
+### Skills Section
+![Skills](images/skills.png)
+
+### Contact Section
+![Contact Me](images/contactme.png)
 
 ## What I Learned About Git and GitHub
 Through this project, I learned how to use Git for version control, create commits, create branches, merge changes, and publish projects on GitHub. I also learned how GitHub helps developers store and collaborate on projects.
