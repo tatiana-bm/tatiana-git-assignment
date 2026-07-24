@@ -98,3 +98,8 @@ footer {
     padding: 20px;
     background: #041020;
 }
+ 
+section {
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
